@@ -9,7 +9,7 @@ namespace SolutionExperiments.Src.Package1
 	/// <summary>
 	/// Example of a class that remains inside a package.
 	/// </summary>
-	class ExampleClass
+	public class ExampleClass
 	{
 	}
 }
